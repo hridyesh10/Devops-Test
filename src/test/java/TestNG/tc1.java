@@ -36,7 +36,7 @@ public class tc1 {
 	  
 	  @AfterMethod
 	  public void close() {
-		  //Close the chrome
+		  //Close the chrome browser
 		 driver.close();
  }
   }
